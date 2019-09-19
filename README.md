@@ -1,2 +1,2 @@
-# mrp-ryerson-sayed-ahmed-msc-data-science
-Major Research Project by Sayed Ahmed for the MSc in Data Science and Analytics at Ryerson University, Canada 
+# public-data-code-the-effect-of-dietary-patterns-on-the-mortality-and-survival-of-ckd-patients
+public-data-code-the-effect-of-dietary-patterns-on-the-mortality-and-survival-of-ckd-patients
